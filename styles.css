@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.container {
+    padding-left: 200px;
+    text-align: center;
+}
+
+.container-emails {
+    padding-left: 220px;
+}
+
+.primeraColumna {
+    position: absolute;
+    
+}
+
+.segundaColumna h3{
+    padding-left: 220px;
+}

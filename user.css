@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+
+.container-users {
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+h1 {
+    color: white;
+}
